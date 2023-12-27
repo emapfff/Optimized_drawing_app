@@ -6,4 +6,3 @@ RAM. Also, the app should allow exporting the shapes drawn. Furthermore, keep in
 more shapes and more features will be added in the next version of this app
 ### To do:
 - Implement this app using flyweight and visitor design patterns.
-- Add a main function, the output should be something like the following
